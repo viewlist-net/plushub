@@ -5,6 +5,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 ---
 ## Streaming Sites
 
+* ⭐ **[CineHQ](https://cinehq.cc/)** - Movies / TV / Anime / Auto-Next 
 * ⭐ **[Vidbox](https://vidbox.cc/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[Braflix](https://braflix.me)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Auto Embed](https://watch-v2.autoembed.cc/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/P2u7dtVD6k)
