@@ -14,6 +14,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * ⭐ **[FlixFree](https://www.flixfree.online/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/flixfreeonline)
 * ⭐ **[CineAura](https://cineaura.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/FYu4krX3JG)
 * ⭐ **[HivFlix](https://hivflix.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/hivflix) / [Discord](https://discord.com/invite/33yA574vvd)
+* ⭐ **[BoomFlix](https://boomflix.qzz.io/)** - Movies / TV / Anime / [Discord](https://discord.gg/Bh3Q5k8v)
 
 
 ## Embeds Platform
@@ -116,11 +117,13 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 
 * ⭐ **[CineHD](https://cinehd.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[Nxsha](https://nxsha.app/)** - Movies / TV / [Telegram](http://t.me/+n2HBTPjpUsViNmNl)
+* ⭐ **[BoomFlix](https://boomflix.qzz.io/)** - Movies / TV / Anime / [Discord](https://discord.gg/Bh3Q5k8v)
 
 
 ## IOS Streaming
 
 * ⭐ **[Nxsha](https://nxsha.app/)** - Movies / TV / [Telegram](http://t.me/+n2HBTPjpUsViNmNl)
+* ⭐ **[BoomFlix](https://boomflix.qzz.io/)** - Movies / TV / Anime / [Discord](https://discord.gg/Bh3Q5k8v)
 
 ---
 
