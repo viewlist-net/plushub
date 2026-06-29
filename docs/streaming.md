@@ -14,6 +14,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * ⭐ **[FlixFree](https://www.flixfree.online/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/flixfreeonline)
 * ⭐ **[CineAura](https://cineaura.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/FYu4krX3JG)
 * ⭐ **[HivFlix](https://hivflix.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/hivflix) / [Discord](https://discord.com/invite/33yA574vvd)
+* ⭐ **[Cinema X](https://cinemax.neonnexusx.games/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/TvjP247Nen)
 
 
 ## Embeds Platform
@@ -29,6 +30,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * ⭐ **[Miruro](https://www.miruro.com/)** - Hard Subs / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.sx/), [4](https://hianime.bz/), [5](https://hianime.pe/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
 * ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.tv/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
+* * ⭐ **[Cinema X](https://cinemax.neonnexusx.games/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/TvjP247Nen)
 
 
 ## Cartoon Streaming
@@ -53,7 +55,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * [HISTORY](https://play.history.com/) - Full History / A+E Episodes
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [⁠DisneyNOW](https://disneynow.com/) - Full Disney Episodes / US Only
-
+* ⭐ **[Cinema X](https://cinemax.neonnexusx.games/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/TvjP247Nen)
 
 ## Drama Streaming
 
@@ -68,7 +70,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * [KissAsian](https://kissasian.video/) - TV / Movies
 * [Dramacool.sr](https://www12.dramacool.sr/) - TV / Movies
 * [Dramacool9](https://dramacools9.cam/) - TV / Movies
-
+* ⭐ **[Cinema X](https://cinemax.neonnexusx.games/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/TvjP247Nen)
 
 ## Live TV
 
