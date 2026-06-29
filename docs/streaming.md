@@ -14,6 +14,7 @@ keywords: free movies, free tv shows, free anime, streaming sites, download movi
 * ⭐ **[FlixFree](https://www.flixfree.online/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/flixfreeonline)
 * ⭐ **[CineAura](https://cineaura.app/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/FYu4krX3JG)
 * ⭐ **[HivFlix](https://hivflix.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/hivflix) / [Discord](https://discord.com/invite/33yA574vvd)
+* ⭐ **[Cinema X](https://cinemax.neonnexusx.games/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/TvjP247Nen)
 
 
 ## Embeds Platform
