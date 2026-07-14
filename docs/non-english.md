@@ -292,6 +292,7 @@ keywords: spanish content, french content, german content, asian languages, inte
 * [haodoo](https://haodoo.net/) - Fiction
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
+* [tuoverse](https://tuoverse.com/) - Fiction / Nonfiction
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [books.l3zc](https://books.l3zc.com/) - Fiction / Non-fiction
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
