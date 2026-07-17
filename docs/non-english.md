@@ -294,6 +294,7 @@ keywords: spanish content, french content, german content, asian languages, inte
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [books.l3zc](https://books.l3zc.com/) - Fiction / Non-fiction
+* [tuoverse](https://tuoverse.com/) - Fiction / Non-fiction
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
