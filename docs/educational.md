@@ -1285,6 +1285,7 @@ keywords: free courses, online education, free learning, khan academy, coursera,
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
+* [IELTS Writing Practice](https://ieltswritingpractice.app/) - Free Question Bank & Timed Writing Practice / AI Feedback Requires Paid Plan
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
